@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Withdraw",
+            "request": "launch",
+            "mainClass": "Withdraw",
+            "projectName": "Withdraw_629f3ee4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "-enableassertions"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaAssertStatements",
+            "request": "launch",
+            "mainClass": "JavaAssertStatements",
+            "projectName": "probsolv_22e3583f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Withdraw",
+            "request": "launch",
+            "mainClass": "Withdraw",
+            "projectName": "probsolv_22e3583f"
+        }
+    ]
+}
