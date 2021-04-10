@@ -1,7 +1,9 @@
-# SoftCons
+# Software Construction
+
 This is repository for Software Construction course, 
 
 Topic: Problem Solving 2 (Assert and Invariant)
+Project: Withdraw
 
 Group Members:
 1) Noor ‘Aliah ‘Afifah binti Mohd Ishak
